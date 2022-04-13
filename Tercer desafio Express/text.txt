@@ -1,0 +1,1 @@
+[{"producto":"Placa de video","precio":500,"industria":"China","id":1},{"producto":"Notebook","precio":250,"id":2,"industria":"Alemana"},{"producto":"iPhone","precio":150,"industria":"Estadounidense","id":3}]
